@@ -73,7 +73,7 @@ Construyo sistemas que convierten datos desordenados en herramientas útiles: CR
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyro.ae@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexisayalae)
 
 📍 Lima, Perú · 🌐 Español (nativo) · Inglés (lectura técnica)
 
